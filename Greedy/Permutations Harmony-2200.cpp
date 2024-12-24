@@ -119,7 +119,6 @@ void solve(){
         }
         cout<<'\n';
     }
-
 }
 int main(){
     int t;
@@ -128,3 +127,4 @@ int main(){
         solve();
     }
 }
+//I was able to solve this question, but It was defintely hard and fun! Also I had commented alot so I might as well use this for learning purposes :D
